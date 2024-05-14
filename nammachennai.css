@@ -1,0 +1,268 @@
+.con{
+    display:inline-flex;
+    flex-direction:row;
+    align-items:flex-start;
+    background-color:#f77f00;
+margin:0px;
+padding:15px;
+}
+.imgcon{
+    flex:1;
+    width:20%;
+height:auto;
+margin-right:20px;
+margin-left:0px;
+}
+.info{
+    display:inline-flex;
+    align-items:flex-start;
+    justify-content:space-between;
+    flex:1;
+    font-style:bold;
+    font-family:'Times New Roman';
+    font-size:25px;
+    background-color:#f77f00;
+    color:#004AAD;
+    width:100%;
+    height:100%;
+}
+.info a{
+    display:inline;
+    margin-left:80px;
+    margin-top:40px;
+    text-align:center;
+    color:#004AAD;
+    text-decoration:none;
+    background-color:#f77f00; 
+}
+h1{
+    margin-top:20%;
+    text-align:center;
+}
+.bold1{
+    font-style:bold;
+    font-family:'Times New Roman';
+    text-align:center;
+    font-size:45px;
+    color:#eeba2b;
+}
+.italic1{
+    font-style:italic;
+    text-align:center;
+    font-family:'Times New Roman';
+    color: #eeba2b;
+    font-size:45px;
+}
+.bold2{
+    font-style:bold;
+    text-align:center;
+    font-family:'Times New Roman';
+    color:#FF914D;
+    font-size:45px;
+}
+.bold3{
+    font-style:bold;
+    font-family:'Times New Roman';
+    text-align:center;
+    color:#FF914D;
+    font-size:45px;
+}
+h2{
+    text-align:center;
+    font-family:'Times New Roman';
+    font-size:35px;
+}
+.bolds{
+    color:#EEBA2B;
+   
+    font-style:bold;
+}
+.italics{
+    color:#FF914D;
+   
+    font-style:italic;
+}
+.bolds1{
+    color:#EEBA2B;
+    
+    font-style:bold;
+}
+.italics1{
+    color:#FF914D;
+    
+    font-style:italic;
+}
+.about{
+    box-sizing:border-box;
+    font-family:'Times New Roman';
+    font-size:20px;
+    color:#f77f00;
+    margin-top:100px;
+}
+.section{
+    width:100%;
+    min-height:100vh;
+    background-color:#caf0f8;
+}
+.container{
+    width:80%;
+    display:block;
+    
+    padding-top:100px;
+}
+.content-section{
+    float:left;
+    width:55%;
+    margin-top:0px;
+}
+.content-section .content p{
+    margin-left:15%;
+    width:100%;
+    height:20%;
+    font-size:25px;
+    line-height:1.5;
+    color:#023e8a;
+}
+.imagesection{
+    float:right;
+    width:50%;
+    height:50%;
+    margin-left:10%;
+    margin-top:-50%;
+}
+.imagesection img{
+   width:100%;
+   height:100%;
+   margin-left:200%;
+   margin-top:-20%;
+}
+.wrap{
+    width:1000px;
+    height:700px;
+    align-items:center;
+    margin-top:0%;
+    margin-left:0%;
+    margin-bottom:10%;
+}
+.image1{
+    width:70%;
+    height: 60%;
+   position:relative;
+   align-items:center;
+}
+.banks{
+    object-fit:cover;
+    width:1570px;
+    height:850px;
+    top:0;
+    left:0; 
+    align-items:center; 
+}
+.mains{
+    width:1570px;
+    height:850px;
+    top:0;
+    left:0;   
+    position:absolute;
+    background:rgba(0,0,0,0.6);
+   justify-content:center;
+   align-items:center;
+   opacity:0;
+   transition:0.6s;
+}
+.mains:hover{
+    opacity:1;
+}
+.mains > *{
+    transform:translateY(25px);
+    transition:transform 0.6s;
+}
+.mains:hover > *{
+    transform:translateY(0px);
+}
+.image-container {
+    display: flex;
+    justify-content: space-between; 
+}
+.transfer{
+    margin-top:20%;
+    font-family:'Times New Roman';
+    font-style:bold;
+    color:#FF914D;
+    text-align:center;
+    font-size:35px;
+    
+}
+.image-wrapper {
+    flex: 1; 
+    margin-right: 10px; 
+}
+
+.image-wrapper:last-child {
+    margin-right: 0; 
+}
+
+img {
+    width: 100%; 
+}
+.contact-info{
+    color:#f77f00;
+    font-family:'Times New Roman';
+    font-style:bold;
+    font-size:20px;
+    margin-top:10%;
+    margin-right:0%;
+    padding:40px;
+    background-color:#caf0f8;
+}
+.contact-info h3{
+    margin-left:35%;
+}
+.contact1 {
+    max-width: 400px;
+  margin-top:0;
+  margin-left:35%;
+    padding: 40px;
+    color:black;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color:#ffc8dd;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    background-color:#caf0f8;
+    color:#f77f00;
+    font-family:'Times New Roman';
+}
+footer a{
+    color:#0056b3;
+    text-decoration:none;
+}
