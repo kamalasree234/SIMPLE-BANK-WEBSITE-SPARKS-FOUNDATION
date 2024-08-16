@@ -1,5 +1,5 @@
 # SIMPLE-BANK-WEBSITE-SPARKS-FOUNDATION
-I’ve developed a simple banking website that serves as a basic platform for conducting essential banking operations. The site is designed to allow the creation of new user accounts, enable money transfers between customers, and provide a transaction history log. The key feature of this application is its simplicity; it operates without a user login page, which streamlines the process and makes it accessible for all users.
+I’ve developed a simple bank website as part of my internship at The Sparks Foundation. The site is designed to allow the creation of new user accounts, enable money transfers between customers, and provide a transaction history log. The key feature of this application is its simplicity; it operates without a user login page, which streamlines the process and makes it accessible for all users.
 
 The website is built using HTML, CSS, and PHP—a combination that ensures both functionality and ease of use. HTML provides the structure, CSS adds the styling, and PHP handles all the backend processes. This trio of technologies has allowed me to create a responsive and efficient web application that can be easily deployed on various servers.
 
