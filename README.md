@@ -7,8 +7,14 @@ One of the main attractions of this website is the direct and hassle-free money 
 
 This project is not just a demonstration of my web development skills but also an effective tool for those looking to understand the workings of web-based banking systems. It’s a practical example of how traditional web technologies can be utilized to create functional and straightforward applications. The code is organized and documented, making it easy for future enhancements and learning purposes.
 
+<img src ="Picture1.jpg" width="600">
+<img src ="Picture2.jpg" width="600">
+<img src ="Picture3.jpg" width="600">
+<img src ="Picture4.jpg" width="600">
+<img src ="Picture5.jpg" width="600">
+<img src ="Picture6.jpg" width="600">
+<img src ="Picture7.jpg" width="600">
 
-Check out the website here:https://internshipproject28.000webhostapp.com/aboutme.html
-
+<img src ="Picture8.jpg" width="600">
 
 Check out my Linkedin Profile:https://www.linkedin.com/in/kamalasree-s-b41922260/
